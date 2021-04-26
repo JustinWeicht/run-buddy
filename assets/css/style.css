@@ -144,7 +144,7 @@ section {
     display: inline-block;
 }
 
-intro p {
+.intro p {
     inline-height: 1.7;
     color: #39a6b2;
     width: 80%;
